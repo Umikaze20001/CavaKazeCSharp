@@ -1,0 +1,10 @@
+L:\C#\渲染器\Render\Render\bin\Debug\Render.exe
+L:\C#\渲染器\Render\Render\bin\Debug\Render.pdb
+L:\C#\渲染器\Render\Render\obj\Debug\Render.Properties.Resources.resources
+L:\C#\渲染器\Render\Render\obj\Debug\Render.csproj.GenerateResource.cache
+L:\C#\渲染器\Render\Render\obj\Debug\Render.csproj.CoreCompileInputs.cache
+L:\C#\渲染器\Render\Render\obj\Debug\Render.exe
+L:\C#\渲染器\Render\Render\obj\Debug\Render.pdb
+L:\C#\渲染器\Render\Render\obj\Debug\Render.MainForm.resources
+L:\C#\渲染器\Render\Render\obj\Debug\Render.前端部分.界面.Form1.resources
+L:\C#\渲染器\Render\Render\obj\Debug\Render.csprojAssemblyReference.cache
